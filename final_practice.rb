@@ -25,7 +25,7 @@ puts shawn_greet
 dave_greet = custom_greeting("Dave")
 puts dave_greet
 # What is the return value of your method?
-# The return value of this method is "Hello and Welcome, Shawn!"
+# The return value of this method is "Hello and Welcome, Shawn!" and "Hello and Welcome, Dave!"
 # How many arguments did you pass your method?
 # I passed one argument.
 # What data type was your argument(s)?
@@ -40,7 +40,7 @@ puts full_name_greet1
 full_name_greet2 = greet_person("Dave", "D", "Douglas")
 puts full_name_greet2
 # What is the return value of your method?
-# The return value of my method is "Hello, Shawn D Carpenter!"
+# The return value of my method is "Hello, Shawn D Carpenter!" and "Hello, Dave D Douglas!"
 # How many arguments did you pass your method?
 # This method passed 3 arguments.
 # What data type was your argument(s)?
@@ -56,7 +56,7 @@ puts square_of_2
 square_of_9 = square(9)
 puts square_of_9
 # What is the return value of your method?
-# The return value of my method is "The square of 2 is 4."
+# The return value of my method is "The square of 2 is 4." and "The square of 9 is 81."
 # How many arguments did you pass your method?
 # I passed one argument.
 # What data type was your argument(s)?

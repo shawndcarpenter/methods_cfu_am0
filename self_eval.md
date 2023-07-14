@@ -1,4 +1,6 @@
 # Self-Evaluation
 
 - Reflect on your learning and work today. What are you most proud of?
+# I struggled a bit with writing methods, but as I worked through final_practice.rb, it became easier and easier. The most difficult part was number 3, where I needed to code for a first, middle and last name parameter. I could not figure out how to code for spaces in the string interpolation, so I eventually coded multiple string interpolations within the coded return value. I am sure there is a more efficient way to code this, and am planning on searching for that later. I also really enjoyed working through number 5, where I had to write a conditional within the method. I am proud of finding the answers to the questions on my own, and I am proud of my ability to look up error messages and find workarounds.
 - What is the power of using methods in our applications?
+# Methods will allow us to call upon a set of instructions multiple times on a parameter, without having to code for each individual argument.

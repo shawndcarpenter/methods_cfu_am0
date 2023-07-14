@@ -67,12 +67,14 @@ puts first_name.start_with?("J")
 # Call a different built-in Ruby method on each of your variables. 
 # https://ruby-doc.org/core-3.1.0/Integer.html
 # Include comments above each method call explaining the impact and return value of that method.
+
 # The remainder method is called on the number_of_birdhouses variable, which stores the integer of 12.
 # The remainder method returns the remainder left over after dividing the integer using the given defined value, in this case 4.
 # In this example, the return value is 0, because 12 is divisible by 4 with no remainder.
 # The puts command prints the return value of the remainder method (0) to the console.
 number_of_birdhouses = 12
 puts number_of_birdhouses.remainder(4)
+
 # The to_f method is called on the number_of_nails variable, storing an integer of 56.
 # The to_f method returns the integer value as a float.
 # In this example, the return value is 56.0, because the integer of 56 is 56.0 when converted to a float.
